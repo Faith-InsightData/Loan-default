@@ -1,18 +1,29 @@
-#📊 Loan Default Prediction
-#Table of Contents
-📖 Introduction
-📊 Data
-💻 Code
-📈 Results
-🚀 Conclusion
-🤝 Contributing
-🙏 Acknowledgments
-📧 Contact Information
-📉 Loan Default Prediction
-📉 A Data-Driven Approach
-📖 Introduction
+# 📊 Loan Default Prediction
+# Table of Contents
 
-# Loan default prediction is crucial for financial institutions to mitigate risk and maintain a healthy lending portfolio. This project leverages historical loan data to build a machine learning model that identifies potential defaulters accurately. We explore various algorithms and evaluate their performance to deliver actionable insights.
+ 📖 Introduction
+ 
+ 📊 Data
+ 
+ 💻 Code
+ 
+ 📈 Results
+ 
+ 🚀 Conclusion
+ 
+ 🤝 Contributing
+ 
+ 🙏 Acknowledgments
+ 
+ 📧 Contact Information
+ 
+ 📉 Loan Default Prediction
+ 
+ 📉 A Data-Driven Approach
+ 
+ 📖 Introduction
+
+ Loan default prediction is crucial for financial institutions to mitigate risk and maintain a healthy lending portfolio. This project leverages historical loan data to build a machine learning model that identifies potential defaulters accurately. We explore various algorithms and evaluate their performance to deliver actionable insights.
 
 # 📊 Data
 The dataset, named "loan_default.csv", contains crucial information about loan applicants, including demographics, financial history, and loan details. Key preprocessing steps include data cleaning, imputation, and feature engineering to prepare the data for effective modeling.
